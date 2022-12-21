@@ -1,7 +1,7 @@
 To Run this : 
 
 Step 1 : Download this repository as a zip file.
-<img src="https://github.com/rishabhxchoudhary/Atri-Assignment/blob/main/Readme/1.png?raw=true" alt="drawing" width="200"/>
+<img src="https://github.com/rishabhxchoudhary/Atri-Assignment/blob/main/Readme/1.png?raw=true" alt="drawing" width="500"/>
 
 Step 2 : Extract the zip file and open your terminal in this folder and type :
 `pipenv shell`
